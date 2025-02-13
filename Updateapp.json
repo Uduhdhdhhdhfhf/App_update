@@ -1,5 +1,8 @@
 {
-"demo":"",
+"app_update":"true",
+  "update_title":"true",
+  "update_message":"true",
+  "update_link":"true",
 
 "end": "end"
 }
